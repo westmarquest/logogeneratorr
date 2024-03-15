@@ -36,4 +36,5 @@ This project is licensed under the MIT License.
 Walkthrough Video : [https://drive.google.com/file/d/1nHOK8QNvKwo8THaFfMhHoXrB1IPYUdzx/view?usp=sharing](https://drive.google.com/file/d/1kYfpNfQulp-BZVK1_f_N2Orn3UjbBij4/view?usp=sharing)https://drive.google.com/file/d/1kYfpNfQulp-BZVK1_f_N2Orn3UjbBij4/view?usp=sharing
 
 
-![2E92C76F-D48B-4E9F-9E6E-C0AFAE7B6005_1_201_a](https://github.com/westmarquest/logogeneratorr/assets/153345373/bef0b2b7-7d1a-4200-b737-7485394fa744)
+![2E92C76F-D48B-4E9F-9E6E-C0AFAE7B6005_1_201_a](https://github.com/westmarquest/logogeneratorr/assets/153345373/6ba5bc98-e01a-4ecc-9ccb-129103aac31c)
+
